@@ -87,6 +87,3 @@ Born2BeRoot isn't just about setting up a VM and configuring a few services; it'
 Good luck, and happy learning!
 
 ---
-
-**a.** Would you like help creating a script to automate some of the steps?  
-**b.** Should we add a troubleshooting section for common issues during evaluation?
